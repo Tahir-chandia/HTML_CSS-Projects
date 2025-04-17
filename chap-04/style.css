@@ -1,0 +1,46 @@
+body{
+    font-size: 25px;
+    background-color: aliceblue;
+}
+
+
+#page{
+    width:98%;
+    margin: auto;
+    border: 8px double black;
+}
+
+
+
+#logo{
+width: 200px;
+margin: 20px auto 30px auto;
+}
+
+ul{
+    width: 60%;
+    margin: 10px auto 10px auto; 
+    padding: 20px 5px 20px 5px;
+    text-align: center;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+p{
+    margin: 30px auto 30px auto;
+    text-align: center;
+    width: 700px;
+
+}
+
+a{
+    text-decoration: none;
+    padding: 5px 20px 5px 20px;
+    text-transform: uppercase;
+    color: black;
+}
+
+
+a:hover{
+    color: aqua;
+}

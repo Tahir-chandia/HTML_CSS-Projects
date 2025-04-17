@@ -1,0 +1,21 @@
+body{background-color: thistle;}
+
+#hi,.hi{background-color: chartreuse;
+    color: rgb(174, 0, 255);
+}
+
+h1{background-color: black;
+    color: rgba(112, 236, 236, 0.856);
+}
+
+p.hi2{background-color: rgba(167, 219, 235, 0.712);
+    color: blueviolet;
+    padding: inherit;
+}
+
+ul li{background-color: yellow;
+    color: brown;
+}
+ul li.u{background-color: cornflowerblue;
+    color: black;
+}

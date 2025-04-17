@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.background-list {
+    list-style-type: none; /* Removes default bullets */
+    padding: 20px; /* Adds padding around the list */
+    background-image: url('./star.svg'); /* Set your image URL */
+    background-size: 8%; /* Ensures the image covers the entire area */
+    background-position: center; /* Centers the background image */
+    color: white; /* Text color for contrast */
+    background-repeat: no-repeat;
+}
+
+.background-list li {
+    padding: 10px; /* Adds space around each list item */
+    border: 1px solid rgba(255, 255, 255, 0.3); /* Optional: adds a border for better visibility */
+    margin: 5px 0; /* Adds space between list items */
+    background: rgba(0, 0, 0, 0.5); /* Optional: semi-transparent background for better text readability */
+}

@@ -1,0 +1,23 @@
+body{
+    background-color:azure;
+}
+
+#hi,.hi{
+    color: blue;
+}
+
+h1{
+    color: aqua;
+}
+
+p.hi2{
+    color: blueviolet;
+    padding: inherit;
+}
+
+ul li{
+    color: brown;
+}
+ul li.u{
+    color: black;
+}

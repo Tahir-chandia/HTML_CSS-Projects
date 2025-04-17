@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    margin: 20px auto 0px auto;
+    font-size: 99%;
+}
+
+table{width: 800px;
+    text-align: center;
+    margin: 30px auto 30px auto;
+    border: 8px double gray;
+    padding: 20px;
+}
+
+th,td{
+
+    padding: 9px 20px 10px 20px;
+    font-size: 17px;
+}
+
+
+th{
+    border-bottom: 3px solid black;
+    border-top: 3px solid rgb(177, 177, 177);
+    text-transform: uppercase;
+    text-align: left;
+    letter-spacing: 0.1em;
+    
+}
+.bio{
+    text-align: right;
+}
+td{
+    text-align: left;
+}
+
+.td1{
+    background-color: beige;
+}
+
+td:hover{
+    background-color: antiquewhite;
+}

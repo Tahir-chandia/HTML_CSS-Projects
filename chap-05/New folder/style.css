@@ -1,0 +1,49 @@
+body{
+    background-color: aliceblue;
+    font-size: 20px;
+ }
+ li{
+    list-style-image: url("./star.svg");
+    background-repeat: no-repeat;
+    background-size:0.8em ;
+    line-height: 1.5em;
+    background-position: left ;
+    margin-top: 5px;
+} 
+
+ul>li{
+    margin-bottom: 10px; 
+    padding-bottom: 10px;
+} 
+
+th{
+    background-color: rgb(123, 123, 250);
+    color: white;
+     border-bottom: 3px solid black;
+     padding: 5px 10px 5px 10px;
+     
+}
+td{background-color: skyblue;
+    text-align: left;
+    padding: 15px 5px 15px 5px;
+}
+
+
+form{
+    width:30%
+}
+
+legend{
+font-style: italic ;
+}
+input[type="text"] {
+    width: 120px;
+    border: 1px solid #d6d6d6;
+    padding: 2px;
+    outline: none;}
+    
+input[type="email"] {
+    width: 120px;
+    border: 1px solid #d6d6d6;
+    padding: 2px;
+    outline: none;} 
