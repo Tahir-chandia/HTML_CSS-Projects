@@ -195,21 +195,21 @@ color: #0076BE;
 @media (max-width:526px) {
     .filter-container .filter-side-1 .button{
         padding: 1rem 1rem;
-        font-size: 14px;
+        font-size: 16px;
     }
     .filter-container .filter-side-2{
-        font-size: 14px;
+        font-size: 16px;
     }
 }
 
 @media (max-width:425px){
     .filter-container .filter-side-1 .button{
         padding:1rem;
-        font-size: 12px;
+        font-size: 14px;
 
     }
     .filter-container .filter-side-2 .content1{
-        font-size: 12px;
+        font-size: 14px;
     padding:  15px 2px 0 5px;
 
     }
